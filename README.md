@@ -2,6 +2,6 @@
 
 quelques commandes utiles
 
-vos remarques sont les bienvenues
+un soucis ? une remarque ?
 
-^^
+https://github.com/katian/linux.terminal/issues
